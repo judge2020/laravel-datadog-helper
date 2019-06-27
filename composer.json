@@ -1,12 +1,12 @@
 {
-  "name": "chaseconey/laravel-datadog-helper",
+  "name": "judge2020/laravel-datadog-helper",
   "type": "library",
   "description": "A Laravel Datadog helper package.",
   "keywords": [
     "chaseconey",
     "laravel-datadog-helper"
   ],
-  "homepage": "https://github.com/chaseconey/laravel-datadog-helper",
+  "homepage": "https://github.com/judge2020/laravel-datadog-helper",
   "license": "MIT",
   "authors": [
     {
@@ -18,7 +18,7 @@
   ],
   "require": {
     "illuminate/support": "~5.1",
-    "datadog/php-datadogstatsd": "^0.4.0",
+    "datadog/php-datadogstatsd": "^1.4.0",
     "php": ">=5.4.0"
   },
   "require-dev": {
